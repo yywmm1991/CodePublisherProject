@@ -1,0 +1,1 @@
+devenv Remote-CodePublisher.sln /rebuild debug
